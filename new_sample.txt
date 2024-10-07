@@ -1,0 +1,7 @@
+Following git commands have been covered so far:
+
+- git status
+- git init
+- git log
+- git add
+- git commit
