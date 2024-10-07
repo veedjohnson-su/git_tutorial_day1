@@ -1,0 +1,5 @@
+User roles and permissions
+
+- Super admin
+- Admin
+- Collaborator
